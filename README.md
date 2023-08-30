@@ -10,3 +10,9 @@
 * Irani Chai
 * Haleem<br><br>
 **[Redirect to MyStats.](MyStats.md)**
+****
+### Sports Recommendation
+I recommend the following sports for good physcial and mental health.
+| Name of the Sport | Reason for recommendation | Avg hours to be spent in a week |
+|------------|-------------|-------------|
+| Cricket | Physcial exercise | 6Hrs |

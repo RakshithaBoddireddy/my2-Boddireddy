@@ -9,4 +9,4 @@
 * Biryani
 * Irani Chai
 * Haleem<br>
-**[MyStats](MyStats.md)**
+**[Redirect to MyStats](MyStats.md)**

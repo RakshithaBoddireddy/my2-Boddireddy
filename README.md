@@ -8,5 +8,5 @@
 3. Food
 * Biryani
 * Irani Chai
-* Haleem<br>
-**[Redirect to MyStats](MyStats.md)**
+* Haleem<br><br>
+**[Redirect to MyStats.](MyStats.md)**

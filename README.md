@@ -24,3 +24,6 @@ I recommend the following sports for good physcial and mental health.
 >"The important thing is not to stop questioning." - *Albert Einstein*<br>
 >"The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge." - *Stephen Hawking*
 *****
+### Code
+**Correct HTML form markup**
+[Click here for Stack overflow](https://stackoverflow.com/questions/8506644/correct-html-form-markup)
